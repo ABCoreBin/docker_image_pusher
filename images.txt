@@ -4,8 +4,6 @@ shenxianmq/symedia:latest
 jxxghp/moviepilot-v2:latest
 redis
 postgres
-metacubex/mihomo:latest
-metacubex/metacubexd:latest
 cloudnas/clouddrive2:latest
 emby/embyserver:latest
 gdy666/lucky:v2
