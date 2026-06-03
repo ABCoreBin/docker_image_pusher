@@ -10,3 +10,4 @@ cloudnas/clouddrive2:latest
 emby/embyserver:latest
 gdy666/lucky:v2
 linuxserver/plex:latest
+adguard/adguardhome:latest
