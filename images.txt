@@ -11,3 +11,8 @@ linuxserver/plex:latest
 adguard/adguardhome:latest
 linuxserver/plex:latest
 portainer/portainer-ce:latest
+logvar/danmu-api:latest
+vaultwarden/server:1.36.0-alpine
+ddsderek/wxchat:latest
+louislam/uptime-kuma
+easychen/cookiecloud:latest
