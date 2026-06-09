@@ -14,7 +14,7 @@ portainer/portainer-ce:latest
 logvar/danmu-api:latest
 vaultwarden/server:1.36.0-alpine
 ddsderek/wxchat:latest
-louislam/uptime-kuma
+louislam/uptime-kuma:2.4.0
 easychen/cookiecloud:latest
 mysql:5.7
 joyqi/typecho:nightly-php7.4-apache
