@@ -1,7 +1,7 @@
 nan11888/nanshare:latest
 thsrite/mediavault:latest
 shenxianmq/symedia:latest
-jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v3:latest
 redis
 postgres
 cloudnas/clouddrive2:latest
